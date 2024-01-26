@@ -55,7 +55,7 @@ const Footer = () => {
         <div className="border bg-gray-20" />
         <p className="regular-14 bold-20 w-full text-center text-gray-30">
           Made by {""}
-          <a href="https://github.com/NimeshLathiya/travel" className="underline text-black">
+          <a href="https://github.com/NimeshLathiya/travel" target="_blank" className="underline text-black">
             Nimesh Lathiya
           </a>
         </p>
