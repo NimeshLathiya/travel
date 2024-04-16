@@ -2,7 +2,7 @@ import { PEOPLE_URL } from "@/constants";
 import Image from "next/image";
 
 interface CampProps {
-  backgroundImage: string;
+  backgroundImage: ;
   title: string;
   subtitle: string;
   peopleJoined: string;
